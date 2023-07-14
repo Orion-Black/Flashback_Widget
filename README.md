@@ -20,6 +20,7 @@ FlashBack Widget is an image gallery widget that allows you to enjoy your favori
 - **System Tray Interaction (Notification Area)**: You can access widget options and change its settings by right-clicking on the widget title in the system tray.
 - **Image Navigation**: Right-click on an image to advance to the next image in the gallery. Left-click to go back to the previous image.
 - **Widget Navigation**: FlashBack Widget can be dragged around the entire window, left click on the title and drag across the desktop to arrange it to your liking. Double click on the title and the widget will return to its original position.
+- **Configure Widget color**: Right clicking on the widget title displays the menu to change the widget colors to your liking.
 - **Compatibility**: FlashBack Widget is compatible with Windows 7, 8, 10, and 11 operating systems. JDK8 is required as the minimum version.
 
 
