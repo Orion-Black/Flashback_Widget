@@ -3,6 +3,9 @@
 FlashBack Widget is an image gallery widget that allows you to enjoy your favorite photos on your desktop. This interactive widget allows you to easily browse through your images, change the widget color, and perform additional actions from the system tray.
 
 ![Demostration](Example-Images/demo2.png)
+![Demostration](Example-Images/demo_Color_Gray.png)
+![Demostration](Example-Images/demo_Color_Red.png)
+![Demostration](Example-Images/demo_Color_Violet.png)
 
 ## Features
 
