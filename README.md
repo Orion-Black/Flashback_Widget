@@ -2,6 +2,14 @@
 
 FlashBack Widget is an image gallery widget that allows you to enjoy your favorite photos on your desktop. This interactive widget allows you to easily browse through your images, change the widget color, and perform additional actions from the system tray.
 
+![Demostration](Example-Images/demo2.png)
+
+<div align="center">
+  <img src="Example-Images/demo_Color_Gray.png" alt="Demostration">
+  <img src="Example-Images/demo_Color_Orange.png" alt="Demostration">
+  <img src="Example-Images/demo_Color_Violet.png" alt="Demostration">
+</div>
+
 ## Features
 
 - **Image Directory**: FlashBack Widget uses the C:/Imagenes folder as its default directory for images. You can add more images by opening the image directory from the widget itself.
@@ -12,10 +20,10 @@ FlashBack Widget is an image gallery widget that allows you to enjoy your favori
 ## Execution Instructions
 
 If you want to just run the widget, follow the steps below:
-1.- Clone the project download or clone the project
-2.- Go to the "EXE" folder
-3.- Run "FlashBack Memories.exe"
-4.- If you want the widget to run when Windows starts, run the **initToStart.bat** script with administrator permissions
+1. Clone the project download or clone the project
+2. Go to the "EXE" folder
+3. Run "FlashBack Memories.exe"
+4. If you want the widget to run when Windows starts, run the **initToStart.bat** script with administrator permissions
 
 ## Distribution
 
