@@ -40,4 +40,4 @@ You can use the "--developer" and "--version" arguments to display additional no
   <img src="Example-Images/demo_Arguments.png" alt="Arguments in console">
 </div>
 
-**Note**: If two JAR files in the project's classpath have the same name, only the first JAR file is copied to the "lib" folder. Only JAR files are copied to the "lib" folder. If 
+**Note**: In case the directory is not found, the program will create the "Images" directory on the Local C drive. Make sure you have memorable images available.
