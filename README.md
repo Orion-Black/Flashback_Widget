@@ -5,20 +5,17 @@ FlashBack Widget is an image gallery widget that allows you to enjoy your favori
 ## Features
 
 - **Image Directory**: FlashBack Widget uses the C:/Imagenes folder as its default directory for images. You can add more images by opening the image directory from the widget itself.
-- **System Tray Interaction**: You can access widget options and change its settings by right-clicking on the widget title in the system tray.
+- **System Tray Interaction (Notification Area)**: You can access widget options and change its settings by right-clicking on the widget title in the system tray.
 - **Image Navigation**: Right-click on an image to advance to the next image in the gallery. Left-click to go back to the previous image.
 - **Compatibility**: FlashBack Widget is compatible with Windows 7, 8, 10, and 11 operating systems. JDK8 is required as the minimum version.
 
-## Build Instructions
+## Execution Instructions
 
-To compile and run the project, follow these steps:
-
-1. Download the FlashBack Widget repository.
-2. Make sure you have JDK8 installed on your system.
-3. Open a terminal or command prompt.
-4. Navigate to the project folder.
-5. Run the following command to compile the project:
-
+If you want to just run the widget, follow the steps below:
+1.- Clone the project download or clone the project
+2.- Go to the "EXE" folder
+3.- Run "FlashBack Memories.exe"
+4.- If you want the widget to run when Windows starts, run the **initToStart.bat** script with administrator permissions
 
 ## Distribution
 
