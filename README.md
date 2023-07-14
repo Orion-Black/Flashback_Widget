@@ -5,9 +5,13 @@ FlashBack Widget is an image gallery widget that allows you to enjoy your favori
 ![Demostration](Example-Images/demo2.png)
 
 <div align="center">
-  <img src="Example-Images/demo_Color_Gray.png" alt="Demostration">
-  <img src="Example-Images/demo_Color_Orange.png" alt="Demostration">
-  <img src="Example-Images/demo_Color_Violet.png" alt="Demostration">
+  <img src="Example-Images/demo_Color_Gray.png" alt="Demostration Color Gray">
+  <img src="Example-Images/demo_Color_Orange.png" alt="Demostration Color Orange">
+  <img src="Example-Images/demo_Color_Violet.png" alt="Demostration Color Violet">
+</div>
+
+<div align="center">
+  <img src="Example-Images/demo_Notification.png" alt="Options in Notification Area">
 </div>
 
 ## Features
