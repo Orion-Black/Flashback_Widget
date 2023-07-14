@@ -4,7 +4,7 @@ FlashBack Widget is an image gallery widget that allows you to enjoy your favori
 
 ![Demostration](Example-Images/demo2.png)
 ![Demostration](Example-Images/demo_Color_Gray.png)
-![Demostration](Example-Images/demo_Color_Red.png)
+![Demostration](Example-Images/demo_Color_Orange.png)
 ![Demostration](Example-Images/demo_Color_Violet.png)
 
 ## Features
